@@ -1,0 +1,25 @@
+{
+  "name": "pluscrm",
+  "version": "0.0.1",
+  "description": "Simple CRM demo app built for the web, using modern technology. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kolyaio/pluscrm.git"
+  },
+  "keywords": [
+    "CRM",
+    "Web",
+    "Front-End",
+    "JavaScript"
+  ],
+  "author": "Nikolai Ilushko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolyaio/pluscrm/issues"
+  },
+  "homepage": "https://github.com/kolyaio/pluscrm#readme"
+}
